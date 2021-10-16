@@ -1,0 +1,11 @@
+Package             Version
+------------------- -------
+asgiref             3.4.1  
+Django              3.2.8  
+django-rest-auth    0.9.5  
+djangorestframework 3.12.4 
+pip                 19.2.3 
+pytz                2021.3 
+setuptools          41.2.0 
+six                 1.16.0 
+sqlparse            0.4.2  
